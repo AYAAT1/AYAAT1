@@ -17,47 +17,6 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about Ma
 
 ---
 
-### 🛠️ Tech Stack & Languages
-
-#### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
-
-#### AI/ML & LLM Stack
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Transformers](https://img.shields.io/badge/-🤗%20Transformers-FFD21E?style=for-the-badge&logoColor=black)
-![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Langchain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-
-#### Low-Level & Systems
-![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-#### Web Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-#### Databases & Tools
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-#### Currently Learning & Building
-![Attention Mechanisms](https://img.shields.io/badge/-Attention%20Mechanisms-FF6B6B?style=for-the-badge&logoColor=white)
-![Neural Architecture](https://img.shields.io/badge/-Neural%20Architecture-4ECDC4?style=for-the-badge&logoColor=white)
-![GPU Programming](https://img.shields.io/badge/-GPU%20Programming-76B900?style=for-the-badge&logoColor=white)
-![RAG Systems](https://img.shields.io/badge/-RAG%20Systems-45B7D1?style=for-the-badge&logoColor=white)
-
----
-
 ### 📊 GitHub Statistics
 
 <div align="center">
@@ -101,10 +60,11 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about Ma
 
 ### 📝 Latest Research & Projects
 <!-- BLOG-POST-LIST:START -->
-- [Building a Transformer from Scratch: Mathematical Deep Dive](https://yourblog.com/transformer-from-scratch)
-- [Understanding Attention Mechanisms Beyond the Hype](https://yourblog.com/attention-mechanisms)
-- [Training LLMs on a Budget: Techniques and Trade-offs](https://yourblog.com/budget-llm-training)
-- [CUDA Programming for Deep Learning: A Beginner's Guide](https://yourblog.com/cuda-deep-learning)
+- [The Client Spectrum](https://yourblog.com/client-spectrum) - Exploring critical architectural decisions in digital landscapes
+- [Why Anaconda is Every Developer's Secret Weapon](https://medium.com/@ayasc/why-anaconda-is-every-developers-secret-weapon-6171c480d03e) - Deep dive into Python environment management and ML workflows
+- [Green Computing: How the Cloud is Making IT More Sustainable](https://medium.com/@ayasc/green-computing-how-the-cloud-is-making-it-more-sustainable-3409dcb78232) - Environmental impact and sustainable practices in cloud computing
+- [Compiler: The Code Alchemist](https://medium.com/@ayasc/compiler-the-code-alchemist-f9d50c3d8354) - Understanding the magic behind code compilation and optimization
+- [From Shores to Screens: The Oceanic Journey of Internet Data](https://medium.com/@ayasc/from-shores-to-screens-the-oceanic-journey-of-internet-data-69eb7f27162f) - Fascinating exploration of how data travels across the globe
 <!-- BLOG-POST-LIST:END -->
 
 ---
