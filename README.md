@@ -69,16 +69,6 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about Ma
 
 ---
 
-### 🎲 Fun Facts
-
-- 🤖 I dream in tensor operations and wake up thinking about gradient descent
-- 🧠 I can explain backpropagation on a napkin (and often do)
-- 🔥 I prefer building neural networks from scratch rather than using frameworks
-- ⚡ I've written CUDA kernels for fun (yes, really!)
-- ☕ Powered by coffee and the satisfaction of making things work from first principles
-  
-
----
 
 <div align="center">
 
