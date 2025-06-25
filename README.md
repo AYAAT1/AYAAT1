@@ -16,48 +16,6 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about Ma
 - 🔬 **Currently exploring:** Training custom LLMs, implementing attention mechanisms, and AI alignment
 
 ---
-
-### 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AYAAT1&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AYAAT1&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AYAAT1&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AYAAT1&theme=radical&no-frame=true&margin-w=15)
-
-</div>
-
----
-
-
-### 📈 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AYAAT1&theme=radical&hide_border=true)
-
----
-
-### 🎯 Current Focus
-
-- 🧠 **Building:** Custom transformer architecture from mathematical foundations
-- 📚 **Studying:** "Attention Is All You Need" paper implementation
-- 🔬 **Experimenting:** Training LLMs on custom datasets with limited compute
-- 💻 **Coding:** GPU kernels for optimized matrix operations
-- 📖 **Reading:** "Deep Learning" by Goodfellow, Bengio, and Courville
-- 🎪 **Challenge:** Implementing GPT architecture without using any ML frameworks
-
-
-
 ### 📝 Latest Research & Projects
 <!-- BLOG-POST-LIST:START -->
 - [The Client Spectrum](https://yourblog.com/client-spectrum) - Exploring critical architectural decisions in digital landscapes
@@ -72,10 +30,6 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about Ma
 
 <div align="center">
 
-### 💭 Quote of the Day
-*"Understanding comes from building. If you want to truly understand neural networks, implement them from scratch."* - Custom philosophy
-
----
 
 **Thanks for visiting my profile! Always excited to discuss LLMs, AI architectures, or collaborate on building something amazing from the ground up! 🤖🚀**
 
