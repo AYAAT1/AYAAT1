@@ -55,8 +55,6 @@ To push the boundary between *machine learning* and *machine understanding*.
 > System log: "Every neuron coded is a neuron understood."
 > Awaiting next commit...
 
-<div align="center">
 
-🤖 System Online. Ready to build, learn, and collaborate
+ System Online. Ready to build, learn, and collaborate
 
-</div>
